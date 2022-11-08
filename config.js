@@ -1,4 +1,3 @@
-
 const CONFIG = {
     introTitle: 'Chúng con thay mặt lớp 11TH1 niên khóa 21-24 kính chào thầy ạ!🙋‍♂️🙋‍♂️',
     introDesc: `Chúng con đố thầy một câu hỏi, nhớ phải trả lời thật lòng nha`,
